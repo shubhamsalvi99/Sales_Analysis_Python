@@ -1,4 +1,4 @@
-# 🧾 Diwali Sales Analysis 🛍️
+# 🧾 Diwali Sales Analysis
 
 This project explores consumer purchasing patterns using a real-world **Diwali sales dataset**. It uses Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize customer behavior across demographics, regions, and product categories — helping uncover insights that can inform business and marketing strategies.
 
